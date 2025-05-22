@@ -1,6 +1,6 @@
 # MaterialPro Frontend Technical Assessment
 
-The project is a technical interview assessment for a frontend role at MaterialPro. The project has taught me a lot, especially how to use the HTML drag and drop API. It seems simple but provided me with some tough challenges, like how to center each draggable box under the cursor when it is dropped to avoid dropping the box below the cursor.
+This project, a technical interview assessment for a frontend role at MaterialPro, has been a valuable learning experience. I've particularly gained a deeper understanding of the HTML drag and drop API. While it might seem straightforward, it presented some challenging problems, such as precisely centring each draggable box under the cursor upon dropping, preventing it from appearing below the cursor.
 
 ## Getting Started
 
